@@ -1,0 +1,17 @@
+{
+  "repo": "lattice-parse-ini-lab",
+  "thresholds": {
+    "signal": 2,
+    "slack": 2,
+    "confidence": 2,
+    "drag": 4,
+    "ship": 151,
+    "watch": 110
+  },
+  "terms": [
+    "token drift",
+    "grammar width",
+    "label quality",
+    "error locality"
+  ]
+}
